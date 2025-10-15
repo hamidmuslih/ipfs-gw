@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina Gateway",
+        "color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.38, -34.61]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany Gateway",
+        "color": "orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.40, 52.52]
+      }
+    },
+    {
+      "type": "Feature",
+        "properties": {
+          "name": "India Gateway",
+          "color": "orange"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [77.21, 28.61]
+        }
+    }
+  ]
+}
